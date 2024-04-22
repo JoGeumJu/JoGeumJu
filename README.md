@@ -31,9 +31,9 @@
     </span>
 </div><br/>
 <br/><br/>
-<h2 align="right">Stats</h2>
-<div align="right"><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JoGeumJu&show_icons=true&theme=dracula&hide_rank=true" alt="JoGeumJu's GitHub stats"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGeumJu&layout=compact&theme=dracula" alt="JoGeumJu's GitHub stats">
+<h2>Stats</h2>
+<div><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JoGeumJu&show_icons=true&theme=dracula&hide_rank=true" alt="JoGeumJu's GitHub stats"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGeumJu&layout=compact&theme=dracula" alt="JoGeumJu's GitHub stats"/>
 </div><br/>
 <br/><br/>
