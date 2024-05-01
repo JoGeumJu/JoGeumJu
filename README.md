@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=300&section=header&text=JoGeumJu&fontSize=70&animation=fadeIn" alt="header" />
     <h3 style="color:white; font-size: 32px; font-weight: bold; text-align: center;">안녕하세요!👋<br/><br/>신입 Web & App Front-end Developer 입니다.</h3><br/><br/><br/>
     <a href="https://cover-letter-site.vercel.app/">
-        <img align="center" src="https://file.notion.so/f/f/a5d2bf9e-1837-4b44-a4af-04eadddade3c/94510970-63e0-4b05-8660-423349d5b0ca/book.webp?id=cf6d1648-8bb9-47fb-9fa9-2c41439a3879&table=block&spaceId=a5d2bf9e-1837-4b44-a4af-04eadddade3c&expirationTimestamp=1713816000000&signature=eMAOOP1v70_oJYAQ-aQUC3xyhFNXFjNORQVsl5msc3I&downloadName=book.webp" />
+        <img align="center" src="https://github.com/JoGeumJu/JoGeumJu/assets/83578248/b718e5f8-8d58-48d9-940d-f79025feb4f7" />
     </a><br/>
      <small>🔼 포트폴리오 사이트 이동 / cover-letter-site</small><br/> 
 </div><br/><br/><br/>
